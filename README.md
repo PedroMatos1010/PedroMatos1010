@@ -1,8 +1,7 @@
 # Hi, I'm Pedro Matos! 👋
 ### Mobile Development Student @ IPCA 🇵🇹
 
-I'm a 19 years old tech enthusiast focused on building mobile apps and exploring game development. Currently looking for an internship opportunity (Erasmus/Portugal).
-
+I'm a 19 years old tech enthusiast focused on building mobile apps and exploring game development. 
 ---
 
 ### 🛠️ Tech Stack
